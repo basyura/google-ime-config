@@ -1,1 +1,5 @@
 Google日本語入力の設定ファイル
+
+- key.config ・・・ for windows
+- key_mac.config ・・・ for mac
+- key_win_on_mac ・・・ for windows running on mac (vmware
